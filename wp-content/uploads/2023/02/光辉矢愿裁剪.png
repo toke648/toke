@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="cn">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Starxn - 荧主机</title>
+  <link rel="stylesheet" href="https://oss.starxw.com/eperror/style.css" />
+</head>
+
+<body>
+  <main>
+    <header>
+      <h1><span id="domain-name"></span></h1>
+      <h2>
+        此域名出现部分错误 代码 404<br>
+        请联系网站管理员处理该错误<br>
+        <a href="https://starxn.com/" target="_blank">Make Starxn.
+          <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path
+              d="M9.99575 1.53249L10.0042 2.53249L12.783 2.50999L8.6465 6.64649L9.3535 7.35349L13.49 3.21699L13.4675 5.99574L14.4675 6.00424L14.5042 1.49574L9.99575 1.53249Z"
+              fill="currentColor" />
+            <path d="M12 12H4V3.99999H8.5V2.99999H3.5L3 3.49999V12.5L3.5 13H12.5L13 12.5V7.49999H12V12Z"
+              fill="currentColor" />
+          </svg>
+        </a>
+      </h2>
+    </header>
+
+    <h3>如果你是网站管理员</h3>
+
+    <section>
+      <p>
+        查看荧主机文档 或联系技术人员排查错误
+        <a href="https://www.yuque.com/afqaq/zvbhh4/lmh7dc"
+          target="_blank">文档.
+          <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path
+              d="M9.99575 1.53249L10.0042 2.53249L12.783 2.50999L8.6465 6.64649L9.3535 7.35349L13.49 3.21699L13.4675 5.99574L14.4675 6.00424L14.5042 1.49574L9.99575 1.53249Z"
+              fill="currentColor" />
+            <path d="M12 12H4V3.99999H8.5V2.99999H3.5L3 3.49999V12.5L3.5 13H12.5L13 12.5V7.49999H12V12Z"
+              fill="currentColor" />
+          </svg>
+        </a>
+      </p>
+    </section>
+
+    <h3>如果你是访客</h3>
+
+    <section>
+      <p>
+        等待网站管理员正确配置或恢复网站访问<br>
+        同时你也可以了解星辰云 这是一家致力于造福百万草根站长的云服务平台.
+      </p>
+    </section>
+
+    <section class="promotional-cards">
+      <a href="https://starxn.com/" target="_blank">
+        <section>
+          <h2>
+            使用星辰云-网络基础服务.
+          </h2>
+          <p>
+            保护您的网站并加速您所有访问设备的速度.
+          </p>
+        </section>
+      </a>
+      <a href="https://starxn.com/" target="_blank">
+        <section>
+          <h2>
+            以最低成本构建网站服务.
+          </h2>
+          <p>
+            星辰云的产品均已高性价比为目的.
+          </p>
+        </section>
+      </a>
+    </section>
+    <div class="animation_wrapper">
+      <div class="animation animation_center"></div>
+      <div class="animation animation_left"></div>
+      <div class="animation animation_right"></div>
+    </div>
+  </main>
+  <footer>
+    <div class="footer-border">
+      <div class="footer-left">
+        <svg width="80" height="2" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <mask id="b" style="mask-type: alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="80" height="2">
+            <path fill="url(#a)" d="M0 0h80v2H0z" />
+          </mask>
+          <g mask="url(#b)">
+            <path class="bottom" d="M0 1h80v1H0z" />
+            <path class="top" d="M0 0h80v1H0z" />
+          </g>
+          <defs>
+            <linearGradient id="a" x1="80" y1="2.00005" x2="0" y2="2.00005" gradientUnits="userSpaceOnUse">
+              <stop stop-color="#fff" />
+              <stop offset="1" stop-color="#fff" stop-opacity="0" />
+            </linearGradient>
+          </defs>
+        </svg>
+      </div>
+      <div class="footer-center">
+        <svg width="100%" height="2" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path class="bottom" d="M0 1h640v1H0z" />
+          <path class="top" d="M0 0h640v1H0z" />
+        </svg>
+      </div>
+      <div class="border-right">
+        <svg width="80" height="2" viewBox="0 0 80 2" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <mask id="mask0_218_1790" style="mask-type: alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="80"
+            height="2">
+            <rect width="80" height="2" fill="url(#paint0_linear_218_1790)" />
+          </mask>
+          <g mask="url(#mask0_218_1790)">
+            <rect y="1" width="80" height="1" class="bottom" />
+            <rect width="80" height="1" class="top" />
+          </g>
+          <defs>
+            <linearGradient id="paint0_linear_218_1790" x1="80" y1="2.00005" x2="0" y2="2.00005"
+              gradientUnits="userSpaceOnUse">
+              <stop stop-color="white" stop-opacity="0" />
+              <stop offset="1" stop-color="white" />
+            </linearGradient>
+          </defs>
+        </svg>
+      </div>
+    </div>
+    <p>
+      Performance & Security by
+      <a href="https://starxn.com" target="_blank">Starxn</a>
+    </p>
+  </footer>
+   <script src="https://oss.starxw.com/eperror/starxn.js"></script>
+</body>
+
+</html>
